@@ -152,8 +152,9 @@ def mergeSingle(filePath):
 
 ## 分割函数 splitFiles("<文件夹或是文件>") 可以传入文件夹,会递归切割所有文件
 ## 合并函数 mergeSingle("文件夹")  传入文件夹路径内不能包含文件夹
+## 合并函数仅能用于由分割函数分割出来的文件合并
 if __name__ == '__main__':
-    # splitFiles("./merge/TensorFlow实战Google深度学习框架第2版.pdf")
+    # splitFiles("<path>")
     # print("总共处理文件数:{}, 切割文件数:{}, 复制文件数:{}".format(str(__allNums),str(__splitNums),str(__copyNums)))
-    # mergeSingle("./split/TensorFlow实战Google深度学习框架第2版.pdf")
+    # mergeSingle("<path>")
     pass
