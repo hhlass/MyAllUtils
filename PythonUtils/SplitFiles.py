@@ -6,7 +6,7 @@ __chunkSize = 1024 * 1024 * 50  # 分块大小 50MB
 __splitMinSize = int(__chunkSize * 1.2)  # 需要分割的最小文件大小
 __splitRootPath = "./split/"       #切割后文件存放根目录
 __mergeRootPath = "./merge/"    #合并后文件存放根目录
-#一下参数针对切割
+#以下参数针对切割
 __allNums = 0       #处理文件总数
 __splitNums = 0     #切割文件个数
 __copyNums = 0      #复制文件个数
