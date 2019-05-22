@@ -1,5 +1,5 @@
 # MyAllUtils
-Some tools used by nyself. （自用的一些工具）
+Some tools used by myself. （自用的一些工具）
 
 
 
