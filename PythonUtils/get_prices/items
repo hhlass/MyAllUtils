@@ -2,6 +2,7 @@
     [
         {"url":"https://www.amazon.com/dp/B07CMH78R5/ref=twister_B07CMLR679?_encoding=UTF8&psc=1","pt":700.00,"mailTo":""},
         {"url":"https://item.jd.com/12522197.html#crumb-wrap","pt":50.00,"mailTo":""},
-        {"url":"https://detail.tmall.com/item.htm?id=588243888605","pt":3800.00,"mailTo":""}
+        {"url":"https://detail.tmall.com/item.htm?id=588243888605","pt":3800.00,"mailTo":""},
+        {"url":"https://item.taobao.com/item.htm?id=574452785632","pt":1800.00,"mailTo":"","flag":"褐色"}
     ]
 }
